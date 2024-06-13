@@ -4,7 +4,7 @@
 
 ## Live Dashboard Link:-
 
-(Dashboard Link)[https://app.powerbi.com/view?r=eyJrIjoiNDcxODllNTEtZjQ4MC00MzMzLWFlMjctNjQwMTBjZTAwNTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
+[Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiNDcxODllNTEtZjQ4MC00MzMzLWFlMjctNjQwMTBjZTAwNTI2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ## 📊 𝗞𝗲𝘆 𝗠𝗲𝘁𝗿𝗶𝗰𝘀 for 𝗛𝗼𝘁𝗲𝗹 𝗛𝗼𝘀𝗽𝗶𝘁𝗮𝗹𝗶𝘁𝘆 𝗗𝗼𝗺𝗮𝗶𝗻:-
